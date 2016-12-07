@@ -8,5 +8,3 @@ int main()
     string = (char *)malloc(sizeof(char)*5);
     return 0;
 }
-
-
